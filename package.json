@@ -1,0 +1,6 @@
+{
+    "name": "smalltasks",
+    "scripts": {
+        "test": "node --experimental-modules countSpecialChars.test.mjs"
+    }
+}
