@@ -1,6 +1,6 @@
 {
     "name": "smalltasks",
     "scripts": {
-        "test": "node --experimental-modules countSpecialChars.test.mjs"
+        "test": "node --experimental-modules countSpecialChars.test.mjs&&node --experimental-modules getProposals.test.mjs"
     }
 }
